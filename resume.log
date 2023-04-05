@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.4)  4 APR 2023 19:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.4)  4 APR 2023 19:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -473,12 +473,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 151.
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 217--219
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 203--205
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 226--228
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 212--214
 []  
  []
 
@@ -490,7 +490,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [1
 
 {C:/Users/jonth/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 234--236
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 220--222
 []  
  []
 
@@ -503,32 +503,42 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 930A91B6F22B89A52B177FAF30A68CC6;720.
+
+Package rerunfilecheck Warning: File `resume.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `resume.out':
+(rerunfilecheck)             Before: 930A91B6F22B89A52B177FAF30A68CC6;720
+(rerunfilecheck)             After:  AC70D0913C977E4AF9503E8649CA5E95;579.
  ) 
 Here is how much of TeX's memory you used:
- 13671 strings out of 476334
- 241009 string characters out of 5787972
- 1886382 words of memory out of 5000000
- 33932 multiletter control sequences out of 15000+600000
+ 13669 strings out of 476334
+ 240950 string characters out of 5787972
+ 1883382 words of memory out of 5000000
+ 33930 multiletter control sequences out of 15000+600000
  519416 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,76p,482b,699s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{C:/Users/jonth/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa
-5brands0.enc}{C:/Users/jonth/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/font
-awesome5/fa5free1.enc}{C:/Users/jonth/AppData/Local/Programs/MiKTeX/fonts/enc/d
-vips/fontawesome5/fa5free2.enc}<C:/Users/jonth/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/jonth/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-So
-lid.pfb><C:/Users/jonth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb><C:/Users/jonth/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb><C:/Users/jonth/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jonth/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jonth/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jonth/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/jonth/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (2 pages, 130951 bytes).
+
+pdfTeX warning (dest): name{section.6} has been referenced but does not exist, 
+replaced by a fixed one
+
+{C:/Users/jonth/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5b
+rands0.enc}{C:/Users/jonth/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontaw
+esome5/fa5free1.enc}{C:/Users/jonth/AppData/Local/Programs/MiKTeX/fonts/enc/dvi
+ps/fontawesome5/fa5free2.enc}<C:/Users/jonth/AppData/Local/Programs/MiKTeX/font
+s/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/jonth/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Soli
+d.pfb><C:/Users/jonth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Users/jonth/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb><C:/Users/jonth/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jonth/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jonth/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jonth/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/jonth/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on resume.pdf (2 pages, 130266 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 500000)
