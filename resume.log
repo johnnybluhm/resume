@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.4)  4 APR 2023 19:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.4)  4 APR 2023 19:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -428,6 +428,7 @@ ii
 \everyMPtoPDFconversion=\toks25
 )
 Package hyperref Info: Link coloring OFF on input line 117.
+ (resume.out) (resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
@@ -466,23 +467,23 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 (Font)              using `OT1/cmr/bx/n' instead on input line 136.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 140.
+(Font)              <10.95> on input line 152.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 140.
+(Font)              <8> on input line 152.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 140.
+(Font)              <6> on input line 152.
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 194--196
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 219--221
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 203--205
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 228--230
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 211--213
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 236--238
 []  
  []
 
@@ -494,27 +495,26 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [1
 
 {C:/Users/jonth/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(resume.aux)
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 4.08003pt, for example:
+(fancyhdr)                \setlength{\footskip}{4.08003pt}.
+
+[2] (resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  234422543FC3FC56BBB8AE2E0FF03DEF;720.
+Package rerunfilecheck Info: File `resume.out' has not changed.
+(rerunfilecheck)             Checksum: 930A91B6F22B89A52B177FAF30A68CC6;720.
  ) 
 Here is how much of TeX's memory you used:
- 13659 strings out of 476334
- 240851 string characters out of 5787972
- 1890382 words of memory out of 5000000
- 33925 multiletter control sequences out of 15000+600000
+ 13671 strings out of 476334
+ 241009 string characters out of 5787972
+ 1895382 words of memory out of 5000000
+ 33932 multiletter control sequences out of 15000+600000
  519416 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,303b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,305b,629s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/jonth/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa
 5brands0.enc}{C:/Users/jonth/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/font
 awesome5/fa5free1.enc}{C:/Users/jonth/AppData/Local/Programs/MiKTeX/fonts/enc/d
@@ -529,9 +529,9 @@ eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jonth/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jonth/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/jonth/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 126841 bytes).
+Output written on resume.pdf (2 pages, 129940 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
