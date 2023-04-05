@@ -153,10 +153,10 @@ Deep thinking, adaptable computer enthusiast with a passion for learning. Cursed
       {Sphere Commerce}{2021 -- Present}
       {Software Engineer}{Westminster, Colorado}
       \resumeItemListStart
-        \resumeItem{Developed a service to automatically perform a set of unit tests daily on a product in development in order to decrease time needed for team members to identify and fix bugs/issues.}
-        \resumeItem{Incorporated scripts using Python and PowerShell to aggregate XML test results into an organized format and to load the latest build code onto the hardware, so that daily testing can be performed.}
-        \resumeItem{Utilized Jenkins to provide a continuous integration service in order to automate the entire process of loading the latest build code and test files, running the tests, and generating a report of the results once per day.}
-        \resumeItem{Explored ways to visualize and send a daily report of test results to team members  using HTML, Javascript, and CSS.}
+        \resumeItem{Cleaned up unnecessary logs made by our logging service, reducing the amount of data logged to splunk every day from 200GB to 10GB.}
+        \resumeItem{Identified and corrected memory leak in long running process. The fix allowed us to change the machine it was running on from an i2, to an i1 instance, saving around \$300/month.}
+        \resumeItem{Fixed unit tests that would periodically fail. Due to the multithreaded nature of the integrated payment application, certain unit tests would fail due to timing issues. Many of these were fixed, leading to far quicker builds and easier development.}        
+        \resumeItem{Improved the logging service to use correct timestamps, greatly aiding developers in their debugging.}
       \resumeItemListEnd
 
     \resumeSubheading
